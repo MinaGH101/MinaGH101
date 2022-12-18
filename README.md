@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MinaGH101
 - 👀 I’m interested in MachineLearning, DeepLearning and webapp development..
-- 🌱 I’m currently learning Django & HTML
+- 🌱 I’m currently learning Advanced Back-End developing.
 - 📫 How to reach me migholami101@gmail.com
 
 <!---
