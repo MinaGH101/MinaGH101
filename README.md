@@ -4,7 +4,6 @@
 - 📫 How to reach me mina.gholami101@gmail.com
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mina-gholami-167138256)
-[![My Skills](https://skillicons.dev/icons?i=whatsapp)](https://api.whatsapp.com/send?phone=9108266247)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/minagh101)
 
 <!---
